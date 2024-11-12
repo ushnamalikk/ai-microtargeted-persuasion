@@ -35,6 +35,3 @@ This project explores the generation of AI-driven manipulative video content aim
   Manages the integration of multimedia components, specifically stitching together audio, video, and textual elements into cohesive video outputs using Flicki.
 
 
-## Authors and Contributions
-
-This project was independently developed with a focus on full-cycle project execution, including prompt engineering, automation, multimedia production, and qualitative and quantitative analysis.
