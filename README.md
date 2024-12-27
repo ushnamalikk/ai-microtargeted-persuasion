@@ -1,6 +1,6 @@
 # AI-Driven Political Persuasion Campaigns
 
-This project explores the generation of AI-driven manipulative video content aimed at influencing public opinion. Using advanced large language models like GPT-4, it generates persuasive narratives tailored to specific demographic factors such as digital literacy, cognitive reflection, and motivated reasoning. These narratives are crafted into video-based content to study the effectiveness and ethical implications of AI-driven political persuasion.
+This project explores the generation of AI-driven manipulative video content aimed at influencing public opinion. Using GPT-4o, it generates persuasive narratives tailored to specific demographic factors such as digital literacy, cognitive reflection, and motivated reasoning. These narratives are crafted into video-based content to study the effectiveness and ethical implications of AI-driven political persuasion.
 
 ## Repository Contents
 
